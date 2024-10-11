@@ -1,0 +1,8 @@
+/venv/
+/.idea/
+/static/
+/output/
+/__pycache__/
+/maimai-b50-pc.iml
+/user.txt
+/program/
